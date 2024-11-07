@@ -1,2 +1,2 @@
 # github-models-playground
-Experiment with AI models available in Github Marketplace
+Experiments with AI models available in Github Marketplace - https://github.com/marketplace/models
